@@ -40,7 +40,6 @@ br{
 body{
     font-weight: 300;
     font-size: 100%;
-    /*font-size: 1vw;*/
     color: #000;
 }
 
@@ -111,10 +110,6 @@ body{
     float: left;
 }
 
-.logo__img{
-    /*width: 100%;*/
-}
-
 .menu{
     float: right;
     padding: 18px 0 0 0;
@@ -159,7 +154,7 @@ body{
 }
 
 .entry{
-    width: 65.55102%; /* 67*/
+    width: 65.55102%; 
     padding: 0  2.244898%;
     box-sizing: border-box;
     float: left;
@@ -251,10 +246,4 @@ body{
 
 footer.wrap{
     position: relative;
-}
-
-
-.footer__logo__img,
-.develop__img{
-    /*width: auto;*/
 }
